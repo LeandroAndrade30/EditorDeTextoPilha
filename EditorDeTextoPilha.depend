@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1714074246 source:c:\users\matri\onedrive\Área de trabalho\estrutura de dados\editordetextopilha\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
